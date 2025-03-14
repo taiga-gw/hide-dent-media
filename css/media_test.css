@@ -86,7 +86,7 @@
 }
 @media only screen and (max-width: 1023px) {
     .mv_area {
-        background-image: url(../img/media/mv_tb_img.png);
+        background-image: url(../img/media/mv_tb_new_img.png);
         background-size: cover;
         background-position: center;
         padding: 528px 0 50px 0;
@@ -101,7 +101,7 @@
 }
 @media only screen and (max-width: 767px) {
     .mv_area {
-        background-image: url(../img/media/mv_sp_img.png);
+        background-image: url(../img/media/mv_sp_new_img.png);
         background-size: contain;
         background-position: top;
         background-repeat: no-repeat;
